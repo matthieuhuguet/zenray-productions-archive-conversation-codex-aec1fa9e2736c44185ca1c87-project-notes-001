@@ -32,3 +32,27 @@
 - Source: /Users/zenray/.codex/sessions/2026/10/10/rollout-2026-10-10T10-31-14-01a124f0-0c66-7462-b1ff-038af6783afb.jsonl. (10 October 2026, 10:34:01 +0200)
 
 > GO UTILISER MON PROPRE BROWSER CHROME JE T'AUTORISE GO JE SUIS DEJA LOG (10 October 2026, 10:34:01 +0200)
+
+## 10 October 2026, 10:36:22 +0200 : Prompt
+
+<!-- feedback-event:e9a668cc90db55635ae91e64259fdd7b163526890d49725a9c7508c5b19d213a (10 October 2026, 10:36:22 +0200) -->
+- Project: conversation-codex-aec1fa9e2736c44185ca1c87; kind: prompt. (10 October 2026, 10:36:22 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/10/rollout-2026-10-10T10-31-14-01a124f0-0c66-7462-b1ff-038af6783afb.jsonl. (10 October 2026, 10:36:22 +0200)
+
+> la depuis chrome prends les cookies et log toi sur le browser interne ! (10 October 2026, 10:36:22 +0200)
+
+## 10 October 2026, 10:38:29 +0200 : Prompt
+
+<!-- feedback-event:dfc93417681d07b53e130e269a43520e098a577bc2ecfb4cf84adc96c9918476 (10 October 2026, 10:38:29 +0200) -->
+- Project: conversation-codex-aec1fa9e2736c44185ca1c87; kind: prompt. (10 October 2026, 10:38:29 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/10/rollout-2026-10-10T10-31-14-01a124f0-0c66-7462-b1ff-038af6783afb.jsonl. (10 October 2026, 10:38:29 +0200)
+
+> Bah remet ton browser interne et je vais me log ... (10 October 2026, 10:38:29 +0200)
+
+## 10 October 2026, 10:38:57 +0200 : Iteration
+
+<!-- feedback-event:84c397d9ee7b6f719160a0ae8f28c8810f1ef8db12b3ab701d1d7422ef151b44 (10 October 2026, 10:38:57 +0200) -->
+- Project: conversation-codex-aec1fa9e2736c44185ca1c87; kind: iteration. (10 October 2026, 10:38:57 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/10/rollout-2026-10-10T10-31-14-01a124f0-0c66-7462-b1ff-038af6783afb.jsonl. (10 October 2026, 10:38:57 +0200)
+
+> Le navigateur intégré est ouvert sur Leboncoin. Connecte-toi dans cet onglet, puis écris « connecté » et je reprends les annonces. (10 October 2026, 10:38:57 +0200)
