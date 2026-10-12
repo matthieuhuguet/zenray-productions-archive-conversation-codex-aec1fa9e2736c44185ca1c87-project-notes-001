@@ -1,23 +1,55 @@
 {
  "schemaVersion": 1,
  "projectId": "conversation-codex-aec1fa9e2736c44185ca1c87",
- "scannedAt": "2026-10-10T09:07:01.419Z",
+ "scannedAt": "2026-10-12T11:10:05.347Z",
  "conversations": [
   {
    "projectId": "conversation-codex-aec1fa9e2736c44185ca1c87",
-   "lines": 21,
-   "work": 12,
+   "lines": 42,
+   "work": 22,
    "prompts": 0,
    "first": "2026-10-10T08:33:02.926Z",
-   "last": "2026-10-10T09:05:58.745Z",
+   "last": "2026-10-12T11:03:44.955Z",
    "strength": "strong",
    "conversationId": "codex:01a124f0-0c66-7462-b1ff-038af6783afb",
    "provider": "codex",
    "sessionId": "01a124f0-0c66-7462-b1ff-038af6783afb",
    "title": "Conversation codex 01a124f0",
-   "updatedAt": "2026-10-10T09:06:21.955Z",
-   "bytes": 12735367,
+   "updatedAt": "2026-10-12T11:05:58.841Z",
+   "bytes": 34220895,
    "boundProject": "conversation-codex-aec1fa9e2736c44185ca1c87"
+  },
+  {
+   "projectId": "conversation-codex-aec1fa9e2736c44185ca1c87",
+   "lines": 4,
+   "work": 2,
+   "prompts": 0,
+   "first": "2026-10-10T10:06:09.651Z",
+   "last": "2026-10-10T14:25:28.901Z",
+   "strength": "weak",
+   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "provider": "codex",
+   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "title": "Conversation codex 01a11653",
+   "updatedAt": "2026-10-10T18:43:51.851Z",
+   "bytes": 1030623008,
+   "boundProject": "zenray-assets-v2"
+  },
+  {
+   "projectId": "conversation-codex-aec1fa9e2736c44185ca1c87",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-11T22:40:52.468Z",
+   "last": "2026-10-11T22:40:52.468Z",
+   "strength": "weak",
+   "conversationId": "claude:af61e9e4-17cb-46aa-b66a-922874eb123f",
+   "provider": "claude",
+   "sessionId": "af61e9e4-17cb-46aa-b66a-922874eb123f",
+   "title": "ZENRAY ASSETS",
+   "updatedAt": "2026-10-11T22:51:54.267Z",
+   "bytes": 20888,
+   "boundProject": null
   }
  ]
 }

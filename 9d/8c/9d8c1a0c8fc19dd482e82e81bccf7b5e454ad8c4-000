@@ -115,3 +115,74 @@
 > |---|---|---| (10 October 2026, 11:06:21 +0200)
 > | Toutes les annonces de 5070 Ti et 4080 Super | Partiel | 9 messages envoyés; 18 candidates 4080 Super restent sans message | (10 October 2026, 11:06:21 +0200)
 > | Proposer 850 €, ou le prix affiché s’il est inférieur | Partiel | Les 9 annonces contactées dépassaient 850 €; le blocage a arrêté la suite | (10 October 2026, 11:06:21 +0200)
+
+## 12 October 2026, 12:32:37 +0200 : Prompt
+
+<!-- feedback-event:75b681914a57d46e49eb6c7ebe3fd0e1ca816a834f18fa0eb9c118ba0172a045 (12 October 2026, 12:32:37 +0200) -->
+- Project: conversation-codex-aec1fa9e2736c44185ca1c87; kind: prompt. (12 October 2026, 12:32:37 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/10/rollout-2026-10-10T10-31-14-01a124f0-0c66-7462-b1ff-038af6783afb.jsonl. (12 October 2026, 12:32:37 +0200)
+
+> pareil continue la boucle recommence aujourd'hui (12 October 2026, 12:32:37 +0200)
+
+## 12 October 2026, 12:50:05 +0200 : Iteration
+
+<!-- feedback-event:a44ab66d4f2f227b2b562be0adf49097c0f7561ee680fa8c964c8c41ab4db019 (12 October 2026, 12:50:05 +0200) -->
+- Project: conversation-codex-aec1fa9e2736c44185ca1c87; kind: iteration. (12 October 2026, 12:50:05 +0200)
+- Source: checkpoint:codex:01a124f0-0c66-7462-b1ff-038af6783afb. (12 October 2026, 12:50:05 +0200)
+
+> 12 October 2026 : 23 nouveaux messages confirmes, 19 RTX 4080 Super et 4 RTX 5070 Ti. Prix adaptes jusqu a 850 euros maximum. 9 conversations deja existantes ignorees. Deux envois 4080 Super refusent avec une erreur serveur. Releves : 69 resultats 4080 Super sur deux pages et 120 resultats 5070 Ti sur quatre pages. Il reste 37 candidates 5070 Ti, 5 candidates 4080 Super, deux echecs a reprendre et deux annonces 5070 Ti ambigues a inspecter. CAPTCHA DataDome 4a6a9bb1-80a1-7b6c-3af6-3ff82b7f59c9 affiche sur annonce 3286968183 ; utilisateur invite a terminer la verification humaine. Etat durable dans atelier State-12-October-2026.json. Aucun contournement. (12 October 2026, 12:50:05 +0200)
+
+## 12 October 2026, 12:51:04 +0200 : Iteration
+
+<!-- feedback-event:6fe95ac0a7ad3472f2e3e084a063d0394174d4f167ad746641f33f42f75710f8 (12 October 2026, 12:51:04 +0200) -->
+- Project: conversation-codex-aec1fa9e2736c44185ca1c87; kind: iteration. (12 October 2026, 12:51:04 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/10/rollout-2026-10-10T10-31-14-01a124f0-0c66-7462-b1ff-038af6783afb.jsonl. (12 October 2026, 12:51:04 +0200)
+
+> Aujourd’hui, **23 nouveaux messages sont confirmés**, dont 19 pour les 4080 Super et 4 pour les 5070 Ti. Les annonces à 800 € reçoivent bien une offre de 800 €. (12 October 2026, 12:51:04 +0200)
+>
+> Leboncoin demande maintenant un CAPTCHA dans le navigateur interne. Termine cette vérification, puis écris « validé » pour reprendre. (12 October 2026, 12:51:04 +0200)
+>
+> | Ta demande | État | Preuve | (12 October 2026, 12:51:04 +0200)
+> |---|---|---| (12 October 2026, 12:51:04 +0200)
+> | Recommencer aujourd’hui | Partiel | 23 envois confirmés, 9 contacts déjà existants ignorés | (12 October 2026, 12:51:04 +0200)
+> | Finir toutes les annonces | Bloqué | CAPTCHA affiché; 42 candidates restent à traiter et 2 envois ont échoué | (12 October 2026, 12:51:04 +0200)
+
+## 12 October 2026, 12:52:17 +0200 : Prompt
+
+<!-- feedback-event:902dc94295122cd1c1869426a055908dbc2b169659139a1c58e75e124235e4eb (12 October 2026, 12:52:17 +0200) -->
+- Project: conversation-codex-aec1fa9e2736c44185ca1c87; kind: prompt. (12 October 2026, 12:52:17 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/10/rollout-2026-10-10T10-31-14-01a124f0-0c66-7462-b1ff-038af6783afb.jsonl. (12 October 2026, 12:52:17 +0200)
+
+> ## My request: (12 October 2026, 12:52:17 +0200)
+> continue captcha done (12 October 2026, 12:52:17 +0200)
+
+## 12 October 2026, 13:04:51 +0200 : Iteration
+
+<!-- feedback-event:7683602a8caea101425f59e65a3496bd0cf1ef9a67407f9122970f002ad4ccb4 (12 October 2026, 13:04:51 +0200) -->
+- Project: conversation-codex-aec1fa9e2736c44185ca1c87; kind: iteration. (12 October 2026, 13:04:51 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/10/rollout-2026-10-10T10-31-14-01a124f0-0c66-7462-b1ff-038af6783afb.jsonl. (12 October 2026, 13:04:51 +0200)
+
+> Six messages supplémentaires sont confirmés, soit **29 aujourd’hui**: 19 pour les 4080 Super et 10 pour les 5070 Ti. (12 October 2026, 13:04:51 +0200)
+>
+> Leboncoin bloque maintenant les messages pour trop d’annonces contactées en peu de temps. La liste restante est sauvegardée. (12 October 2026, 13:04:51 +0200)
+>
+> | Ta demande | État | Preuve | (12 October 2026, 13:04:51 +0200)
+> |---|---|---| (12 October 2026, 13:04:51 +0200)
+> | Continuer après le CAPTCHA | Partiel | 6 nouveaux envois confirmés | (12 October 2026, 13:04:51 +0200)
+> | Contacter toutes les annonces | Bloqué | 7 envois refusés et 21 annonces restantes; limite affichée par Leboncoin | (12 October 2026, 13:04:51 +0200)
+
+## 12 October 2026, 13:05:40 +0200 : Prompt
+
+<!-- feedback-event:2caa3de09ce6727506466655108296a3003b8240618cb4763c551ac90417a3b5 (12 October 2026, 13:05:40 +0200) -->
+- Project: conversation-codex-aec1fa9e2736c44185ca1c87; kind: prompt. (12 October 2026, 13:05:40 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/10/rollout-2026-10-10T10-31-14-01a124f0-0c66-7462-b1ff-038af6783afb.jsonl. (12 October 2026, 13:05:40 +0200)
+
+> normalement tu peux encore contacté via le bouton contacter par message ... (12 October 2026, 13:05:40 +0200)
+
+## 12 October 2026, 13:05:58 +0200 : Iteration
+
+<!-- feedback-event:a45107135b42fa726684e5b72c49aef0e4b396a8c4ed6d50286bdf9856173b21 (12 October 2026, 13:05:58 +0200) -->
+- Project: conversation-codex-aec1fa9e2736c44185ca1c87; kind: iteration. (12 October 2026, 13:05:58 +0200)
+- Source: /Users/zenray/.codex/sessions/2026/10/10/rollout-2026-10-10T10-31-14-01a124f0-0c66-7462-b1ff-038af6783afb.jsonl. (12 October 2026, 13:05:58 +0200)
+
+> Le dernier essai utilise déjà **« Contacter » puis « Envoyer mon message »**. Leboncoin refuse cet envoi en indiquant « trop d’annonces contactées en un temps réduit »: le blocage touche donc aussi les messages envoyés par ce bouton. (12 October 2026, 13:05:58 +0200)
